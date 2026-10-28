@@ -4,7 +4,7 @@ Bruno Spadeto e Diego de Castro Rodrigues (Universidade Federal do Tocantins; In
 
 | arquivo | conteúdo |
 |---|---|
-| `deposito-g-m-t-k-20261028-020a65cb.zip` | código do método, adaptadores das bases, scripts de avaliação, de robustez e das análises adicionais, comparadores, script das figuras, protocolo registrado, emendas, código congelado no registro, cronologia dos commits, relatórios de resultado, ambiente travado e script de reprodução. O `LEIAME.md` de dentro explica a estrutura e como reproduzir. |
+| `deposito-g-m-t-k-20261028-bbf7b65e.zip` | código do método, adaptadores das bases, scripts de avaliação, de robustez e das análises adicionais, comparadores, script das figuras, protocolo registrado, emendas, código congelado no registro, cronologia dos commits, relatórios de resultado, ambiente travado e script de reprodução. O `LEIAME.md` de dentro explica a estrutura e como reproduzir. |
 | `2-evidencias.tar.gz` | evidências derivadas: registros por instante e artefatos por caso, escores e caches que as tabelas do artigo leem, saídas dos comparadores |
 | `SHA256SUMS` | sha256 dos dois arquivos acima (`sha256sum -c SHA256SUMS`) |
 
