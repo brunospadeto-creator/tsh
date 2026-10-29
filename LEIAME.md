@@ -15,4 +15,4 @@ Os dados públicos (RCAEval e OpenRCA Market) não estão aqui; baixe-os dos rep
 
 Licença (proposta): código sob MIT; documentos e resultados sob CC BY 4.0.
 
-Atualização de 29/10/2026: parte 1 remontada no commit `09bb0709`, incluindo a ablação da normalização no portão. ZIP e checksums internos verificados; 170 arquivos Python compiláveis e AST dos 164 arquivos Python correntes idêntica à do commit, sem docstrings. Evidências derivadas preservadas. A revisão do manuscrito ainda tem pendências científicas e bibliográficas; esta atualização não certifica a versão final para submissão.
+Atualização de 29/10/2026: parte 1 remontada no commit `09bb0709`, incluindo a ablação da normalização no portão. ZIP e checksums internos verificados; 170 arquivos Python compiláveis e AST dos 164 arquivos Python correntes idêntica à do commit, sem docstrings. Evidências derivadas preservadas.
